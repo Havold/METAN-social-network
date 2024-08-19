@@ -22,3 +22,5 @@ When you first clone the METAN application, you may encounter issues connecting 
 - If you're unfamiliar with connecting to a SQL Server database, please refer to tutorials on YouTube. Search for "How to connect to SQL Server database in [your development environment]" for step-by-step guidance.
 ## 🛠️ Technologies Used
 - In this project, I use __C#__ and __Winform__ for development, SQL Server Management for data management.
+## 👀 Demo
+You can see the interface image in the demo folder.
