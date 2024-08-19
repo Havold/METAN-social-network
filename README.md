@@ -17,10 +17,10 @@ Ready to use METAN? Follow these steps to get started:
 3. Open file `Database.sql` in path `C:\C#\Instagram\sql` and execute the command in it.
 4. Run file `Instagram.exe` in path `C:\C#\Instagram\Instagram\bin\Debug\net8.0-windows` and enjoy the app. ✔️
 ## ⚠️ Important Notice
-When you first clone the METAN application, you may encounter issues connecting to the database. This is a common setup step that requires some configuration:
-- The application uses SQL Server as its database. To connect to the database, you'll need to modify the connection string (strCon) in the application’s configuration files.
-- If you're unfamiliar with connecting to a SQL Server database, please refer to tutorials on YouTube. Search for "How to connect to SQL Server database in [your development environment]" for step-by-step guidance.
+When you __first__ clone the METAN application, you may encounter issues connecting to the database. This is a common setup step that requires some configuration:
+- The application uses __SQL Server__ as its database. To connect to the database, you'll need to modify the connection string __(strCon)__ in the application’s configuration files.
+- If you're unfamiliar with __connecting to a SQL Server database__, please refer to tutorials on YouTube. Search for __"How to connect to SQL Server database in [your development environment]"__ for step-by-step guidance.
 ## 🛠️ Technologies Used
-- In this project, I use __C#__ and __Winform__ for development, SQL Server Management for data management.
+- In this project, I use __C#__ and __Winform__ for development, __SQL Server Management__ for data management.
 ## 👀 Demo
 You can see the interface image in the demo folder.
