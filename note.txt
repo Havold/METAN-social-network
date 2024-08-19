@@ -1,0 +1,14 @@
+Comment			DONE
+thông báo like và cmt	DONE	
+QR			DONE	
+đổi mật khẩu		DONE
+ResetPass		DONE
+chat			
+Hiển thị người đang theo dõi 	DONE
+Chỉnh trang đăng ký		DONE
+bổ sung đăng ảnh 2 3 4 5, chỉnh hiện 2 nút next back khi chỉ có 1 ảnh DONE
+FIX BUG FIND FRAGMENT	DONE
+
+FIX BUG PROFILE FRAGMENT, KHI ĐỒNG Ý THEO DÕI THÌ KHÔNG CẬP NHẬT LIỀN DONE
+
+FIX BUG KHI BACK Ở FRAGMENT FIND	DONE
