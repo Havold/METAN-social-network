@@ -1,6 +1,6 @@
 # 🌐 METAN - The Social NetWork App
 ## 💻 About METAN
-__METAN__ is a photo-sharing app; it's a community where you can express yourself freely, explore content from around the world, and connect with others who share your interests. Whether you’re posting a photo, sharing a story, or discovering new content, METAN provides a seamless and engaging user experience. This project is developed using C# and WinForms.
+__METAN__ is a photo-sharing app; it's a community where you can express yourself freely, explore content from around the world, and connect with others who share your interests. Whether you’re posting a photo, sharing a story, or discovering new content, METAN provides a seamless and engaging user experience. This project is developed using __C#__ and __WinForms__.
 ## 🌟 Features
 - Login, register and retrieve user password (send new password email to registered user's gmail address).
 - Change avatar and the bio.
