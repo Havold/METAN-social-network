@@ -1,6 +1,6 @@
 # 🌐 METAN - The Social NetWork App
 ## 💻 About METAN
-__METAN__ is a photo-sharing app; it's a community where you can express yourself freely, explore content from around the world, and connect with others who share your interests. Whether you’re posting a photo, sharing a story, or discovering new content, METAN provides a seamless and engaging user experience.
+__METAN__ is a photo-sharing app; it's a community where you can express yourself freely, explore content from around the world, and connect with others who share your interests. Whether you’re posting a photo, sharing a story, or discovering new content, METAN provides a seamless and engaging user experience. This project is developed using C# and WinForms.
 ## 🌟 Features
 - Login, register and retrieve user password (send new password email to registered user's gmail address).
 - Change avatar and the bio.
@@ -21,6 +21,8 @@ When you __first__ clone the METAN application, you may encounter issues connect
 - The application uses __SQL Server__ as its database. To connect to the database, you'll need to modify the connection string __(strCon)__ in the application’s configuration files.
 - If you're unfamiliar with __connecting to a SQL Server database__, please refer to tutorials on YouTube. Search for __"How to connect to SQL Server database in [your development environment]"__ for step-by-step guidance.
 ## 🛠️ Technologies Used
-- In this project, I use __C#__ and __Winform__ for development, __SQL Server Management__ for data management.
+- **Programming Language**: C#
+- **Framework**: WinForms
+- **Database Management**: SQL Server Management Studio
 ## 👀 Demo
-You can see the interface image in the demo folder.
+You can see the interface image in the `demo` folder.
