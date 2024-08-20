@@ -30,12 +30,12 @@ namespace Instagram
 
         private void resetBtn_MouseEnter(object sender, EventArgs e)
         {
-            resetBtn.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\resetBtn_MouseEnter.png");
+            resetBtn.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\resetBtn_MouseEnter.png");
         }
 
         private void resetBtn_MouseLeave(object sender, EventArgs e)
         {
-            resetBtn.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\resetBtn.png");
+            resetBtn.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\resetBtn.png");
         }
 
         /*private void resetBtn_Click(object sender, EventArgs e)
@@ -84,12 +84,12 @@ namespace Instagram
 
         private void backBtn_MouseEnter(object sender, EventArgs e)
         {
-            backBtn.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\backBtn_MouseEnter.png");
+            backBtn.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\backBtn_MouseEnter.png");
         }
 
         private void backBtn_MouseLeave(object sender, EventArgs e)
         {
-            backBtn.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\backBtn.png");
+            backBtn.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\backBtnWhite.png");
         }
 
         private void edtEmail_Click(object sender, EventArgs e)
@@ -160,9 +160,9 @@ namespace Instagram
             sqlCmd.Connection = sqlCon;
             sqlCmd.ExecuteNonQuery();
 
-            sqlCmd.CommandText = "UPDATE ONLINE SET PASSWORD = '" + newPass + "' WHERE EMAIL = '" + email + "'";
-            sqlCmd.Connection = sqlCon;
-            sqlCmd.ExecuteNonQuery();
+//            sqlCmd.CommandText = "UPDATE ONLINE SET PASSWORD = '" + newPass + "' WHERE EMAIL = '" + email + "'";
+//            sqlCmd.Connection = sqlCon;
+//            sqlCmd.ExecuteNonQuery();
         }
 
         static string GenerateRandomString(int length)

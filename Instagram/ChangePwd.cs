@@ -41,18 +41,18 @@ namespace Instagram
             eyeOpen=false; eyeOpen_2 = false;
             edtNewPwd.PasswordChar = '\0';
             edtOldPwd.PasswordChar = '\0';
-            eyeOld.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\eye_close.png");
-            eyeNew.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\eye_close.png");
+            eyeOld.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\eye_close.png");
+            eyeNew.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\eye_close.png");
         }
 
         private void changeBtn_MouseEnter(object sender, EventArgs e)
         {
-            changeBtn.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\changePwdBtn_MouseEnter.png");
+            changeBtn.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\changePwdBtn_MouseEnter.png");
         }
 
         private void changeBtn_MouseLeave(object sender, EventArgs e)
         {
-            changeBtn.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\changePwdBtn.png");
+            changeBtn.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\changePwdBtn.png");
         }
 
         /*private void edtOldPwd_Click(object sender, EventArgs e)
@@ -207,13 +207,13 @@ namespace Instagram
             if (!eyeOpen)
             {
                 eyeOpen = true;
-                eyeOld.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\eye_open.png");
+                eyeOld.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\eye_open.png");
                 edtOldPwd.PasswordChar = '\0';
             }
             else
             {
                 eyeOpen = false;
-                eyeOld.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\eye_close.png");
+                eyeOld.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\eye_close.png");
                 edtOldPwd.PasswordChar = '*';
             }
         }
@@ -223,13 +223,13 @@ namespace Instagram
             if (!eyeOpen_2)
             {
                 eyeOpen_2 = true;
-                eyeNew.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\eye_open.png");
+                eyeNew.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\eye_open.png");
                 edtNewPwd.PasswordChar = '\0';
             }
             else
             {
                 eyeOpen_2 = false;
-                eyeNew.Image = Image.FromFile("D:\\C#\\Instagram\\png\\4x\\eye_close.png");
+                eyeNew.Image = Image.FromFile("C:\\C#\\Instagram\\png\\4x\\eye_close.png");
                 edtNewPwd.PasswordChar = '*';
             }
         }

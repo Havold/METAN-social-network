@@ -122,3 +122,4 @@ C:\C#\Instagram\Instagram\obj\Debug\net8.0-windows\refint\Instagram.dll
 C:\C#\Instagram\Instagram\obj\Debug\net8.0-windows\Instagram.pdb
 C:\C#\Instagram\Instagram\obj\Debug\net8.0-windows\Instagram.genruntimeconfig.cache
 C:\C#\Instagram\Instagram\obj\Debug\net8.0-windows\ref\Instagram.dll
+C:\C#\Instagram\Instagram\obj\Debug\net8.0-windows\Instagram.sourcelink.json
