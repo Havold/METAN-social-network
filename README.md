@@ -2,7 +2,7 @@
 ## 💻 About METAN
 __METAN__ is a photo-sharing app; it's a community where you can express yourself freely, explore content from around the world, and connect with others who share your interests. Whether you’re posting a photo, sharing a story, or discovering new content, METAN provides a seamless and engaging user experience.
 ## 🌟 Features
-- Login, register and retrieve user password (send 1 password email to registered user's gmail address).
+- Login, register and retrieve user password (send new password email to registered user's gmail address).
 - Change avatar and the bio.
 - Post a post with an image and caption that you like.
 - Chat privately with your friends and followers. (This feature is currently down)
